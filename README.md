@@ -1,7 +1,7 @@
 ### Мои проекты
 
 Auto-tuning-atelie: <a href="https://github.com/Raduev/front-tuning
-">Код</a> / <a href="
+">Код</a> / <a href="https://tur--agency.herokuapp.com/
 ">Демо</a> <br>
 Tur-agency: <a src="">Код</a>
 
